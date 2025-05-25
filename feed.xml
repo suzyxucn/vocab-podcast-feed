@@ -2,13 +2,20 @@
 <rss version="2.0">
   <channel>
     <title>My Vocab Audio Feed</title>
-    <link>https://yourusername.github.io/</link>
+    <link>https://suzyxucn.github.io/</link>
     <description>Auto-generated vocabulary audio</description>
     <language>en-us</language>
 
     <item>
-      <title>Word 1 - Sample Sentences</title>
-      <enclosure url="https://drive.google.com/uc?export=download&id=XXXXX" length="123456" type="audio/mpeg" />
+      <title>Word 1 - Disparate</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=1Ph8Tk13F4C3MfxVs0OrSMDHWtgaXRSYk" length="123456" type="audio/mpeg" />
+      <guid>word-1</guid>
+      <pubDate>Sat, 24 May 2025 12:00:00 GMT</pubDate>
+    </item>
+
+<item>
+      <title>Word 2 - Incumbent</title>
+      <enclosure url="https://drive.google.com/uc?export=download&id=11i9EAPjVEzrmehA4V-olMMRRJJiVD_65" length="123456" type="audio/mpeg" />
       <guid>word-1</guid>
       <pubDate>Sat, 24 May 2025 12:00:00 GMT</pubDate>
     </item>
