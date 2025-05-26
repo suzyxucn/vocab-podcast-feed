@@ -1,38 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>My Vocab Audio Feed</title>
-    <link>https://suzyxucn.github.io/</link>
-    <description>Auto-generated vocabulary audio</description>
-    <language>en-us</language>
-
-    <item>
-      <title>Word 1 - Disparate</title>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Ph8Tk13F4C3MfxVs0OrSMDHWtgaXRSYk" length="123456" type="audio/mpeg" />
-      <guid>word-1</guid>
-      <pubDate>Sat, 24 May 2025 12:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Word 2 - Incumbent</title>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Doc3wCwC44uO6GdcSYUsaYLiPADJScuy" length="123456" type="audio/mpeg" />
-      <guid>word-2</guid>
-      <pubDate>Sat, 24 May 2025 12:05:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Word 3 - Trajectory</title>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Hdf02ZknoVgk7PQ64RhhQI-gnSu_AEis" length="123456" type="audio/mpeg" />
-      <guid>word-2</guid>
-      <pubDate>Sat, 24 May 2025 12:05:00 GMT</pubDate>
-    </item>
-
-     <item>
-      <title>Word 3 - Trajectory</title>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qf_fjrZ3cPEOYcQ20GMK6nbdKemvebpZ" length="123456" type="audio/mpeg" />
-      <guid>word-2</guid>
-      <pubDate>Sat, 24 May 2025 12:05:00 GMT</pubDate>
-    </item>
-
-  </channel>
+<channel>
+  <title>My Vocab Audio</title>
+  <link>https://example.com</link>
+  <description>Vocabulary audio learning</description>
+  <language>en-us</language>
+<item>
+  <title>Word 2 - Disparate</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1qx5JwOoJgdqN-wUuwxrC9-JiH5CdFNp-" length="123456" type="audio/mpeg" />
+  <guid>1qx5JwOoJgdqN-wUuwxrC9-JiH5CdFNp-</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 3 - Endeavor</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1qx5JwOoJgdqN-wUuwxrC9-JiH5CdFNp-" length="123456" type="audio/mpeg" />
+  <guid>1qx5JwOoJgdqN-wUuwxrC9-JiH5CdFNp-</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 4 - Compatible</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1Wo0x3TmVVK0RcmiVz0drzLngczKXzJzL" length="123456" type="audio/mpeg" />
+  <guid>1Wo0x3TmVVK0RcmiVz0drzLngczKXzJzL</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 5 - Shepherd</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=18rcAFIqnCZkk-BXty7FE9TpMZA-b_23i" length="123456" type="audio/mpeg" />
+  <guid>18rcAFIqnCZkk-BXty7FE9TpMZA-b_23i</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 6 - Chart The Path</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1hyExBs55sSXVox0Hy9O0VDSagjjcb1on" length="123456" type="audio/mpeg" />
+  <guid>1hyExBs55sSXVox0Hy9O0VDSagjjcb1on</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 7 - Ring A Bell</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1j1mzN9m4-0UyXvRU73umunITcQipVcUX" length="123456" type="audio/mpeg" />
+  <guid>1j1mzN9m4-0UyXvRU73umunITcQipVcUX</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 8 - Cadence</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1Fkef2DT96gd1cKaslI6qYVuwDW51SFO_" length="123456" type="audio/mpeg" />
+  <guid>1Fkef2DT96gd1cKaslI6qYVuwDW51SFO_</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 9 - Perception</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1Io98bqADSDINlrKDVenVo2R5OAxedmhZ" length="123456" type="audio/mpeg" />
+  <guid>1Io98bqADSDINlrKDVenVo2R5OAxedmhZ</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 10 - Shed Light On</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1xHwVh_kTS5JkSHLv2MZ1j2iwzzS0qISj" length="123456" type="audio/mpeg" />
+  <guid>1xHwVh_kTS5JkSHLv2MZ1j2iwzzS0qISj</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 11 - With Regard For</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1RIMg4t8Cys7JJgZnSllQjJ6GxEaNWMks" length="123456" type="audio/mpeg" />
+  <guid>1RIMg4t8Cys7JJgZnSllQjJ6GxEaNWMks</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 12 - Attribute To</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=10KmfmJWUnrvlJQ1RPNHHspGaa9IuBFkj" length="123456" type="audio/mpeg" />
+  <guid>10KmfmJWUnrvlJQ1RPNHHspGaa9IuBFkj</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 13 - Subject To</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1fUfBQWeErj1MU1Nyo6sGt1a-gyrTgyRa" length="123456" type="audio/mpeg" />
+  <guid>1fUfBQWeErj1MU1Nyo6sGt1a-gyrTgyRa</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 14 - Defer</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1brecVACyBjGRZQnvAAXj4bCyKsDSI_nl" length="123456" type="audio/mpeg" />
+  <guid>1brecVACyBjGRZQnvAAXj4bCyKsDSI_nl</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 15 - Exposed To</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=122pd9pJklwPZp3rEz-_SVR9mPLcs0QcI" length="123456" type="audio/mpeg" />
+  <guid>122pd9pJklwPZp3rEz-_SVR9mPLcs0QcI</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 16 - Opt For </title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1VWjwf2vqZT43O7dwu3R-BqBxUK8JXUtz" length="123456" type="audio/mpeg" />
+  <guid>1VWjwf2vqZT43O7dwu3R-BqBxUK8JXUtz</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 17 - Opt Out Of</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1K5HmQQd9-yWoDkzhAVg8pIA_Qi9I96Ff" length="123456" type="audio/mpeg" />
+  <guid>1K5HmQQd9-yWoDkzhAVg8pIA_Qi9I96Ff</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+<item>
+  <title>Word 18 - Opt In To</title>
+  <enclosure url="https://drive.google.com/uc?export=download&id=1_gikgkE9CrBLaA8NMN193jlIvhP8Lz8f" length="123456" type="audio/mpeg" />
+  <guid>1_gikgkE9CrBLaA8NMN193jlIvhP8Lz8f</guid>
+  <pubDate>Mon, 26 May 2025 10:29:30 GMT</pubDate>
+</item>
+</channel>
 </rss>
